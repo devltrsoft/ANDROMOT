@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "955662604123",
+    "project_id": "andromot-8771a",
+    "storage_bucket": "andromot-8771a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955662604123:android:f35be45668d0d889302c7e",
+        "android_client_info": {
+          "package_name": "com.ltrsoft.andromot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955662604123-deg7de06rs1p2rrittnau7rcb8ifa69d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcNw9soORMUdnznERDazw4m0tbjl7TWpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955662604123-deg7de06rs1p2rrittnau7rcb8ifa69d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
